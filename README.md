@@ -10,6 +10,8 @@ https://kits19.grand-challenge.org/data/
 
 RSNA pneumonia detection challenge (2D images)
 
+number of images = 26684
+
 https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/overview
 
 Covid 19 chest x-ray dataset
