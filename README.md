@@ -15,3 +15,9 @@ https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/overview
 Covid 19 chest x-ray dataset
 
 https://github.com/GeneralBlockchain/covid-19-chest-xray-lung-bounding-boxes-dataset
+
+Covid Chest X-ray
+
+https://github.com/ieee8023/covid-chestxray-dataset
+
+number of images = 334
