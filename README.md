@@ -11,3 +11,7 @@ https://kits19.grand-challenge.org/data/
 RSNA pneumonia detection challenge (2D images)
 
 https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/overview
+
+Covid 19 chest x-ray dataset
+
+https://github.com/GeneralBlockchain/covid-19-chest-xray-lung-bounding-boxes-dataset
