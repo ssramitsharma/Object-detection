@@ -27,3 +27,7 @@ Covid Chest X-ray (2D images)
 https://github.com/ieee8023/covid-chestxray-dataset
 
 number of images = 334
+
+
+LIDC-IDRI (Image segmantation dataset used for competetion luna 2016)
+https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI
