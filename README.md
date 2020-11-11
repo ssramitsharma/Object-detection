@@ -1,6 +1,6 @@
 # Object-detection
 
-Resolution basically means the number of pixels present in an image. Resolution is normally identified by width and height of image.( we use this convention in our project) 
+Resolution basically means the number of pixels present in an image. Resolution is identified by width and height of image.( we use this convention in our project) 
    Resolution also refers to the total pixels an image contains, for example if an image is 2048 pixels wide and 1536 pixels high.
    Total pixels = 2048*1536 = 3145728 pixels or 3.1 Megapixels
    So the resolution image is 3.1 Megapixels
