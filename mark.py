@@ -345,8 +345,8 @@ epochs = range(1,len(next(iter(history.values())))+1)
 df = pd.DataFrame(history, index=epochs)
 df.to_csv("chest-epoch.csv")
 
-model.save("chest.h5")
-model.load_weights('chest.h5', by_name=True)
+#model.save("chest.h5")
+model.load_weights('mask_rcnn_pneumonia_0000.h5', by_name=True)
 # evaluate model on training dataset
 train_mAP = evaluate_model(train_set, model, cfg)
 print("Train mAP: %.3f" % train_mAP)
