@@ -44,3 +44,6 @@ https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI
 NIH Clinical Center
 
 https://nihcc.app.box.com/v/DeepLesion/folder/50715173939
+
+
+https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/
